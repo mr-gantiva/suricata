@@ -55,14 +55,13 @@ li i {
   transform: scale(1.1);
 }
 
-.card {
-  overflow: hidden;
-}
 .card .card-img {
   overflow: hidden;
+}
+.card .card-img img {
   transition: all 0.5s ease;
 }
-.card .card-img:hover {
+.card .card-img img:hover {
   transform: scale(1.1);
 }
 
