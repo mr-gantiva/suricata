@@ -25,6 +25,7 @@ Esta es una landing page para Suricata, una tienda que ofrece una variedad de pr
 ## Estructura del Proyecto
 
 La estructura del proyecto es la siguiente:
+```plaintext
 /
 -├── assets/
 -│ ├── css/
