@@ -40,6 +40,7 @@ La estructura del proyecto es la siguiente:
 -│ │ ├── dulces.jpg
 -│ │ └── empanadas.jpg
 -├── index.html
+```
 
 
 ## Tecnologías Utilizadas
