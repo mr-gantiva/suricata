@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #707070;
+}
+h2 {
+    color: #ffff;
+}
+
+li {
+    list-style: none;
+    i {
+        font-size: 50px;
+        color: #ffff;
+    }
+}
+
+.navbar {
+    background-color: #E83E8C;
+    .navbar-brand img {
+        width: 120px;
+    }
+    .navbar-nav {
+        .nav-link {
+            color: #fff;
+            .active {
+                color: #fff;
+            }
+        }
+    }
+}
+
+.cards-icon-container {
+    background-color: #17A2B8;
+}
+
+footer {
+    background-color: #E83E8C;
+    .box-img-footer img{
+        width: 50px;
+    }
+}
+
