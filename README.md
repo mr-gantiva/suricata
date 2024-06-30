@@ -26,19 +26,19 @@ Esta es una landing page para Suricata, una tienda que ofrece una variedad de pr
 
 La estructura del proyecto es la siguiente:
 /
-├── assets/
-│ ├── css/
-│ │ └── style.css
-│ ├── img/
-│ │ ├── logo.png
-│ │ ├── logo-footer.png
-│ │ ├── colaciones.jpg
-│ │ ├── desayunos.jpg
-│ │ ├── bebidas.jpg
-│ │ ├── verduras.jpg
-│ │ ├── dulces.jpg
-│ │ └── empanadas.jpg
-├── index.html
+-├── assets/
+-│ ├── css/
+-│ │ └── style.css
+-│ ├── img/
+-│ │ ├── logo.png
+-│ │ ├── logo-footer.png
+-│ │ ├── colaciones.jpg
+-│ │ ├── desayunos.jpg
+-│ │ ├── bebidas.jpg
+-│ │ ├── verduras.jpg
+-│ │ ├── dulces.jpg
+-│ │ └── empanadas.jpg
+-├── index.html
 
 
 ## Tecnologías Utilizadas
