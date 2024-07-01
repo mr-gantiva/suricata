@@ -4,7 +4,7 @@ Esta es una landing page para Suricata, una tienda que ofrece una variedad de pr
 
 ## Demo
 
-Puedes ver la página en vivo aquí: [Olivia Rios Landing Page](https://mr-gantiva.github.io/suricata/)
+Puedes ver la página en vivo aquí: [Suricata Landing Page](https://mr-gantiva.github.io/suricata/)
 
 ## Contenido
 
